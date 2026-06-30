@@ -160,3 +160,6 @@ As aplicações práticas citadas na tabela comparativa foram baseadas nos capí
 * *"Explique o modelo de Responsabilidade Compartilhada de Segurança na nuvem para IaaS e PaaS usando uma analogia simples do dia a dia."*
 * *"Quais são as 5 características essenciais da Computação em Nuvem segundo a definição do NIST e dê um exemplo prático de cada uma?"*
 * *"Como a virtualização difere da computação em nuvem? Explique a relação de dependência entre as duas."*
+
+## Nota: 
+** Os livros utilizados como fonte foram adquiridos legalmente e carregados de forma privada no meu painel do NotebookLM apenas para fins de estudo acadêmico, não estando disponíveis publicamente neste repositório por questões de direitos autorais*
